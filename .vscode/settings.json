@@ -1,0 +1,6 @@
+{
+  "workbench.activityBar.visible": false,
+  "emmet.excludeLanguages": [
+    "markdown", "css"
+  ]
+}
